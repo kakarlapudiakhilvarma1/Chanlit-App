@@ -1,0 +1,9 @@
+chainlit
+pydantic==2.10.1
+langchain
+langchain-community
+PyPDF2
+langchain-huggingface
+langchain-google-genai
+faiss-cpu
+langchain-groq
